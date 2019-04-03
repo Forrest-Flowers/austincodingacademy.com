@@ -6,7 +6,7 @@ fullname: Forrest Flowers
 jobtitle: Freelance Web Developer
 
 location: Austin, TX
-blurb: 'A fresh out of bootcamp developer who loves a challenge. I work hard '
+blurb: 'A fresh out of bootcamp developer who loves a challenge.'
 
 skills:
   - C# .NET
