@@ -22,7 +22,7 @@ skills:
   
   
 github: https://github.com/Forrest-Flowers
-linkedin: https://www.linkedin.com/in/kevincolten
+linkedin: https://www.linkedin.com/in/forrestflowers
 
 email: forrest.w.flowers@gmail.com
 website: [WIP]
